@@ -11,8 +11,7 @@
     app:cardElevation="4dp"
     app:cardCornerRadius="12dp"
     app:strokeColor="?attr/colorOutline"
-    app:strokeWidth="1dp"
-    android:id="@+id/main">
+    app:strokeWidth="1dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
